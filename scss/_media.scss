@@ -43,8 +43,12 @@
   .contain {
     width: 100%;
     max-width: 100%;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .leasing .contain {
+    padding-left: 0;
+    padding-right: 0;
   }
 }//575
 
